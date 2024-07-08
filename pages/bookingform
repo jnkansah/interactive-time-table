@@ -1,0 +1,15 @@
+<html>  
+<head>  
+</head>  
+<body bgcolor="Lightskyblue">  
+<form>  
+  
+<label> Name </label>         
+<input type="text" name= "name" size="15"/> <br> <br>  
+<label> Class: </label>     
+<input type="text" name="class" size="15"/> <br> <br>  
+
+
+</form>
+</body>
+</html>
